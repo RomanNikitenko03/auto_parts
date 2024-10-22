@@ -1,4 +1,4 @@
-# Young_Cook_Recept_Application
+# ZAPCHASTI.RU_Application
 ---
 
 ## <a id="table_of_contents">Оглавление</a>
@@ -14,7 +14,7 @@
     
 ## <a id="introduction">1. Введение</a>
 
-#### __Название проекта:__ _Young cook recept_
+#### __Название проекта:__ _Zapchasti.ru_
 
 #### __Технологии и инструменты разработки:__
 - Язык разработки: _Kotlin_
