@@ -1,13 +1,3 @@
-# Auto_parts
---- 
-Мобильное приложение для магазин суш
+# sushi_shop
 
-OC:Andoid
-
-Language: Kotlin
-
-[SRC of program](Requirements/SRC.md)
-
-[User interface image](Mockups)
-
-[Diagrams](https://github.com/RomanNikitenko03/auto_parts/tree/master/docs/diagrams)
+A sushi shop app for my good friend.
