@@ -2,7 +2,7 @@
 # SHOP SUSHI
 =======
 # SUSHI.ROMCHIK
->>>>>>> ea19ae2b6129813d91b5b6b730e580b3498729de
+>>>>>>> 
 ---
 
 ## <a id="table_of_contents">Оглавление</a>
