@@ -49,31 +49,31 @@
 
 - Окно загрузки приложение
 
-![Load](../Mockups/photo_2024-10-21_14-26-33.jpg)
+![Load](../docs/Mockups/photo_2024-11-06_17-48-40.jpg)
 
 - Стартовое окно при входе в приложение
 
-![sign_in_out](../Mockups/photo_2024-10-21_14-26-39.jpg)
+![sign_in_out](../docs/Mockups/photo_2024-11-06_17-48-07.jpg)
 
 - Окно регистрации нового пользователя
 
-![register](../Mockups/photo_2024-10-21_14-26-45.jpg)
+![register](../docs//Mockups/photo_2024-11-06_17-48-54.jpg)
 
 - Окно входа для зарегистрированного пользователя
 
-![entry](../Mockups/photo_2024-10-21_14-26-49.jpg)
+![entry](../docs//Mockups/photo_2024-11-06_17-48-58.jpg)
 
 - Окно главного меню
 
-![main](../Mockups/photo_2024-10-21_14-26-53.jpg)
+![main](../docs/Mockups/photo_2024-11-06_17-48-51.jpg)
 
 - Окно добавление суш
 
-![Show_food_info](../Mockups/photo_2024-10-21_14-26-59.jpg)
+![Show_food_info](../docs/Mockups/photo_2024-11-06_17-48-48.jpg)
 
 - После добавления суш основная информация изображается в виртуальной корзине
 
-![Watch_food](../Mockups/photo_2024-10-21_14-27-10.jpg)
+![Watch_food](../docs/Mockups/photo_2024-11-06_17-48-44.jpg)
 
 ### <a id="user_characteristic">2.3 Характеристики пользователей</a>
 
