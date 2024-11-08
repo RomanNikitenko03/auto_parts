@@ -1,7 +1,7 @@
 
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](https://github.com/GwinBest/carPartsShop/blob/main/docs/diagrams/UseCase.md) 
+![Диаграмма вариантов использования]([https://github.com/RomanNikitenko03/shushi_shop/blob/master/docs/Diagrams/images/UseCase.jpg]) 
   
 # Глоссарий
 
