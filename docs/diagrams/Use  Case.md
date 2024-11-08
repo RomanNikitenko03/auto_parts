@@ -37,9 +37,6 @@
 
    2.9 [Просмотреть историю покупок](#see_history_buy)
 
-   2.10 [Просмотреть историю просмотров](#see_history_view)
-
-   2.11 [Купить товар](#purchase_product)
 
 <a name="actors"/>
 
